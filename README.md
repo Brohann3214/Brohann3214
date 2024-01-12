@@ -11,3 +11,4 @@ Brohann3214/Brohann3214 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brohann3214)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brohann3214)](https://github.com/anuraghazra/github-readme-stats)
